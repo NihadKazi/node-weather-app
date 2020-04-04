@@ -1,4 +1,3 @@
-console.log("Git Check")
 const search = document.querySelector('input')
 const weatherForm = document.querySelector('form')
 const printMessagOne = document.querySelector('#message-1')
